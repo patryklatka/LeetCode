@@ -2,7 +2,7 @@ int lengthOfLongestSubstring(char* s) {
     int max_length = 0;
     int start = 0;
     int length = 0;
-    int last_seen[256] = { 0 }; // Zakładając, że używamy ASCII, tablica dla ostatnich wystąpień znaków
+    int last_seen[256] = { 0 };
 
     for (int i = 0; i < 256; i++) {
         last_seen[i] = -1;
@@ -16,16 +16,13 @@ int lengthOfLongestSubstring(char* s) {
             start = last_seen[(unsigned char)current_char] + 1;
         }
 
-        // Aktualizuj długość aktualnego podciągu
         length = i - start + 1;
         if (length > max_length) {
             max_length = length;
         }
 
-        // Zapamiętaj ostatnie wystąpienie znaku
         last_seen[(unsigned char)current_char] = i;
     }
 
     return max_length;
 }
-
