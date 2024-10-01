@@ -3,6 +3,7 @@
 
 |  Nr  |Title | Solution |
 |--- | --- | --- |
+| 8. | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C](https://github.com/patryklatka/LeetCode/blob/main/C_exercises/8_String_to_Integer/main.c)
 | 7. | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C](https://github.com/patryklatka/LeetCode/blob/main/C_exercises/7_Reverse_Integer/main.c)
 | 6. | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [C](https://github.com/patryklatka/LeetCode/blob/main/C_exercises/6_Zigzag_Conversion/main.c)
 | 5. | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [C](https://github.com/patryklatka/LeetCode/blob/main/C_exercises/5_Longest_Palindromic_Substring/main.c)
