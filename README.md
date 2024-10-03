@@ -3,6 +3,7 @@
 
 |  Nr  |Title | Solution |
 |--- | --- | --- |
+| 9. | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [C](https://github.com/patryklatka/LeetCode/blob/main/C_exercises/9_Palindrome_Number/main.c)
 | 8. | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/description/) | [C](https://github.com/patryklatka/LeetCode/blob/main/C_exercises/8_String_to_Integer/main.c)
 | 7. | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C](https://github.com/patryklatka/LeetCode/blob/main/C_exercises/7_Reverse_Integer/main.c)
 | 6. | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [C](https://github.com/patryklatka/LeetCode/blob/main/C_exercises/6_Zigzag_Conversion/main.c)
