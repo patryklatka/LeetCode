@@ -1,5 +1,6 @@
 .idea/
 cmake-build-debug/
 CMakeLists.txt
-
-
+.vscode
+Cpp_exercises/nie_dodawaj_do_gita
+/**/main
